@@ -1,0 +1,7 @@
+C:\Users\alyst\source\repos\Batch_Deobfuscator\Batch_Deobfuscator\bin\Debug\Batch_Deobfuscator.exe.config
+C:\Users\alyst\source\repos\Batch_Deobfuscator\Batch_Deobfuscator\bin\Debug\Batch_Deobfuscator.exe
+C:\Users\alyst\source\repos\Batch_Deobfuscator\Batch_Deobfuscator\bin\Debug\Batch_Deobfuscator.pdb
+C:\Users\alyst\source\repos\Batch_Deobfuscator\Batch_Deobfuscator\obj\Debug\Batch_Deobfuscator.csproj.CoreCompileInputs.cache
+C:\Users\alyst\source\repos\Batch_Deobfuscator\Batch_Deobfuscator\obj\Debug\Batch_Deobfuscator.exe
+C:\Users\alyst\source\repos\Batch_Deobfuscator\Batch_Deobfuscator\obj\Debug\Batch_Deobfuscator.pdb
+C:\Users\alyst\source\repos\Batch_Deobfuscator\Batch_Deobfuscator\obj\Debug\Batch_Deobfuscator.csprojAssemblyReference.cache
